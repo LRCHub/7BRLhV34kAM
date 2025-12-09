@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ごはん",
+  "base_artist": "DISH//",
+  "createdAt": "2025-12-09T12:22:49.917600Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ごはん",
+      "artist": "DISH//",
+      "has_synced": false,
+      "path": "select/pl_01_ごはん_DISH.txt"
+    }
+  ]
+}
